@@ -1,0 +1,4 @@
+replicaCount: 1
+
+ui:
+  message: "Hello from my Git repository!"
